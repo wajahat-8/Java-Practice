@@ -1,0 +1,19 @@
+package unionfind;
+
+public class ArmsStrong {
+    public static void main(String[] args) {
+        // Define the number to check
+        int N = 153; // Example number, you can change this for testing
+        
+        // Call the method to check if the number is an Armstrong number
+        boolean result = isArmstrong(N);
+        
+        // Print the result
+        System.out.println("Is " + N + " an Armstrong number? " + result);
+    }
+
+    public static boolean isArmstrong(int N) {
+        // Implement the logic to check if N is an Armstrong number
+        return false; // Placeholder return statement
+    }
+}
