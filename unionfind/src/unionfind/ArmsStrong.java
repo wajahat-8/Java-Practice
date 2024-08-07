@@ -8,7 +8,7 @@ public class ArmsStrong {
         System.out.println("Is " + N + " an Armstrong number? " + result);
     }
     public static boolean isArmstrong(int N) {
-    	int originalNumber=N;
+    	
     	int numberOfDigits=0;
     	int sum=0;
     	int temp=N;
