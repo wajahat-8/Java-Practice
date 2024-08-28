@@ -15,28 +15,32 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
+			<item value="org.eclipse.ui.edit.text.toggleWordWrap"/>
+			<item value="org.eclipse.tm.terminal.view.ui.TerminalsView"/>
 			<item value="org.eclipse.oomph.setup.SynchronizerPreferencePage"/>
 			<item value="org.eclipse.oomph.setup.RecorderPreferencePage"/>
-			<item value="org.eclipse.jdt.ui.CompilationUnitEditorunionfind/src/unionfind/pattern1.java"/>
 		</list>
 		<list key="orderedProviders">
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.ui.preferences"/>
 			<item value="org.eclipse.ui.preferences"/>
-			<item value="org.eclipse.ui.editors"/>
 		</list>
 		<list key="textEntries">
 			<item value="1"/>
 			<item value="1"/>
 			<item value="1"/>
+			<item value="1"/>
 		</list>
 		<list key="textArray">
+			<item value="word wra"/>
+			<item value="termi"/>
 			<item value="pref"/>
 			<item value="pre"/>
-			<item value="s"/>
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="374"/>
+		<item key="DIALOG_X_ORIGIN" value="316"/>
 		<item key="DIALOG_Y_ORIGIN" value="8"/>
 		<item key="DIALOG_WIDTH" value="719"/>
 		<item key="DIALOG_HEIGHT" value="720"/>

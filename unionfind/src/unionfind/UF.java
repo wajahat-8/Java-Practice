@@ -80,6 +80,7 @@ public class UF {
         System.out.println(p + " and " + q + " are already connected");
       }
     }
+    
 
     scanner.close();
   }
